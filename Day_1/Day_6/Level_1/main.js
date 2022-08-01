@@ -12,7 +12,7 @@ while (i <= 10) {
 
 let I = 0
 do {
-  console.log(I)
+  console.log(I);
   i++
 } while (I <= 10)
 

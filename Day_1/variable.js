@@ -1,31 +1,28 @@
-let firstName ='Abinash'
-let isSingle = true
-let emptyValue= null
 
-console.log(firstName)
+// 6
+let name, lastname, Country, Age;
+
+// 7
+
+let Name = 'bini';
+lastname = 'mohapatra';
+state = 'odisha';
+Age = 30;
+
+// 8
+let firstName = "bini";
+let lastName = "mohapatra";
+const country = "india";
+let isMarried = true;
+let age = 30;
+// 9
+console.log(firstName, lastName, country, isMarried, age);
 
 
-let myName =''
-let yourName=''
-let myAge =''
-let ismarried=''
 
-console.log(myName, yourName , myAge , ismarried)
+// 10
+let myage = 'I am 25 years old'
+let yourAge = 'Your are 30 years old'
 
-// Declaring variables with number values
-let age = 100 // age in years
-const gravity = 9.81 // earth gravity  in m/s2
-const boilingPoint = 100 // water boiling point, temperature in °C
-const PI = 3.14 // geometrical constant
-console.log(gravity, boilingPoint, PI)
-
-let name ='Sam'
-let lastName = 'Samal'
-
-console.log(name,firstName, age, gravity, boilingPoint)
-
-let mAge='I am 25 years old'
-let yAge ='Your age is 30 years old'
-
-console.log (mAge)
-console.log(yAge)
+console.log(myage)
+console.log(yourAge)
